@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing **Degree in Information Technologies**
 
-- 👨‍💻 All of my projects are available at [LinkedIn](LinkedIn)
+- 👨‍💻 All of my projects are available at [LinkedIn]([LinkedIn](https://www.linkedin.com/in/siaucheejiang/))
 
 - 📫 How to reach me **siaucheejiang@gmail.com**
 
